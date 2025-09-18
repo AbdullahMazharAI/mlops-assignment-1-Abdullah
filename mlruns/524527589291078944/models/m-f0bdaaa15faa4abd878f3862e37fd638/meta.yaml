@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/JHON%20WICK/PycharmProjects/mlops-assignment-1-Abdullah/mlruns/524527589291078944/models/m-f0bdaaa15faa4abd878f3862e37fd638/artifacts
+creation_timestamp: 1758211936800
+experiment_id: '524527589291078944'
+last_updated_timestamp: 1758211948153
+model_id: m-f0bdaaa15faa4abd878f3862e37fd638
+model_type: null
+name: model
+source_run_id: 10969e7fa44f4742bae958e104a23211
+status: 2
+status_message: null

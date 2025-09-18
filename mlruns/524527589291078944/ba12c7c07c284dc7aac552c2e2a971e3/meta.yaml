@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/JHON%20WICK/PycharmProjects/mlops-assignment-1-Abdullah/mlruns/524527589291078944/ba12c7c07c284dc7aac552c2e2a971e3/artifacts
+end_time: 1758213202989
+entry_point_name: ''
+experiment_id: '524527589291078944'
+lifecycle_stage: active
+run_id: ba12c7c07c284dc7aac552c2e2a971e3
+run_name: Logistic Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758213185523
+status: 3
+tags: []
+user_id: JHON WICK

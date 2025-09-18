@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/JHON%20WICK/PycharmProjects/mlops-assignment-1-Abdullah/mlruns/524527589291078944/models/m-3d21b2aa7276406eb58320113ad6fdce/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-3d21b2aa7276406eb58320113ad6fdce
+model_size_bytes: 835
+model_uuid: m-3d21b2aa7276406eb58320113ad6fdce
+prompts: null
+run_id: 03b28caf03a844b9a4e1a2fb9326422b
+utc_time_created: '2025-09-18 16:12:07.902031'

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/JHON%20WICK/PycharmProjects/mlops-assignment-1-Abdullah/mlruns/524527589291078944/830fdab9c7cd42998285f867ba65f32b/artifacts
+end_time: 1758210545221
+entry_point_name: ''
+experiment_id: '524527589291078944'
+lifecycle_stage: active
+run_id: 830fdab9c7cd42998285f867ba65f32b
+run_name: RandomForest_Trial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758210507823
+status: 3
+tags: []
+user_id: JHON WICK
